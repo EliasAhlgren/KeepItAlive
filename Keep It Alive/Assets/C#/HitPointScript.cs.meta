@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0ce02e8efc27546b8ba577a0ab17b70b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - emitters: {instanceID: 0}
+  - slider: {instanceID: 0}
+  - flame: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
